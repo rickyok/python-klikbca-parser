@@ -17,3 +17,7 @@ if bca.login():
 	bca.logout()
 	update_balance(conn , username , balance , process_notes(transactions) , pb_account)
 ```
+
+Ide dan source PHP diambil dari website (Thanks bro)
+
+http://www.randomlog.org/article/bca-parser/
